@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="https://github.com/kttalley" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:gap="http://phonegap.com/ns/1.0">
     <feature name="Battery">
         <param name="android-package" value="org.apache.cordova.batterystatus.BatteryListener" />
     </feature>
@@ -35,12 +35,12 @@
     <feature name="Vibration">
         <param name="android-package" value="org.apache.cordova.vibration.Vibration" />
     </feature>
-    <name>helloworld</name>
+    <name>FishCityJump</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Fish City Jump v 0.1 made by KTT.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="talleykristian@gmail.com" href="https://github.com/kttalley">
+       KTT 
     </author>
     <content src="index.html" />
     <access origin="*" />
@@ -71,5 +71,6 @@
     <allow-intent href="market:*" />
     <preference name="loglevel" value="DEBUG" />
     <preference name="DisallowOverscroll" value="true" />
+    <preference name="Orientation" value="portrait" />
     <preference name="android-minSdkVersion" value="14" />
 </widget>

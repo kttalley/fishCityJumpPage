@@ -1,11 +1,12 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "helloworld",
-  "short_name": "helloworld",
-  "version": "com.phonegap.helloworld",
-  "description": "Hello World sample application that responds to the deviceready event.",
-  "author": "PhoneGap Team",
+  "name": "FishCityJump",
+  "short_name": "FishCityJump",
+  "version": "https://github.com/kttalley",
+  "description": "Fish City Jump v 0.1 made by KTT.",
+  "author": "KTT",
   "icons": [],
+  "orientation": "portrait",
   "start_url": "index.html"
 }
