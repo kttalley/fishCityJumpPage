@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/1.0" xmlns:android = "http://schemas.android.com/apk/res/android" id = "com.lumberg.greeeaaat" version = "1.0.0">
+<widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/1.0" xmlns:android = "http://schemas.android.com/apk/res/android" id = "https://github.com/kttalley" version = "1.0.0">
     <name>FishCityJump</name>
     <description>
         Fish City Jump v 0.1 made by KTT.
